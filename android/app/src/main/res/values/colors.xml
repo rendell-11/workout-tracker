@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches AppColors.bg so the native launch screen blends into the Flutter splash. -->
+    <color name="splash_background">#0A0A0C</color>
+	<color name="ic_launcher_background">#0A0A0C</color>
+</resources>
